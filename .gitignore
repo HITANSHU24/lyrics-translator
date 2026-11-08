@@ -20,3 +20,4 @@ models/
 .DS_Store
 .vscode/
 .idea/
+translator.py.bak
